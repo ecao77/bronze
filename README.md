@@ -1,4 +1,4 @@
-# USACO December 2020 Bronze Contest Submissions
+# Enbao Cao - USACO December 2020 Bronze Submissions
 
 ## 1. Do You Know Your ABCs? (abc)
 Problem Statement: http://usaco.org/index.php?page=viewproblem2&cpid=1059
